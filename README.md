@@ -1,2 +1,23 @@
-# unity_game
-학교 전공심화 과제로 낸 게임
+# 유니티 게임 : 반려동물을 찾아서..
+학교 전공심화 과제로 낸 게임으로 2~3주 정도의 제작 기간으로 유니티를 이용하였고 강의를 보고 클론 코딩하여 조금 변형하여 제작하게 되었다.
+
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/e7cb6012-2895-412a-afe8-7c8b2423f111)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/607da2ca-f270-4306-85ae-0054cf52c5f4)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/3471045a-5227-48cd-b602-91594aab4450)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/fd139293-820e-4f5d-a970-4c471b3c140e)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/340b91dc-5567-467a-9098-52505bdf4f30)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/468a925b-09c9-4a1e-8797-8cad62756f0c)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/74339185-c38a-455e-ac6f-160838246c45)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/ec38a7c6-38ab-4695-a10f-b12e7f629826)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/63fb8470-076b-4642-b1bc-e88b6174a11d)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/0181e6a1-2567-4c70-a804-906f81fac300)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/7af734e5-ab72-4484-abb3-f76659829fbf)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/bb7e5ec5-12df-4e4f-87a6-fd091300602b)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/7029b8ae-da10-4e0b-91f3-919205b5206b)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/b3e04983-3c16-46b7-8d02-6f9a5962b87e)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/c49f2ce9-4364-4e61-aff4-2c20070feb71)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/3c2142a1-3c69-4975-9a61-800a704cacc8)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/108ce40b-b769-41b0-a149-a10ede391711)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/6a7779d9-fe20-4b46-a6a5-e8bf9b264959)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/be02cb5d-8edd-4795-aae1-e5f40ec346d4)
+![image](https://github.com/GoldenPearls/unity_game/assets/97003348/f01ea0c8-db55-4e70-8ea2-bd2f98b5c9f0)
