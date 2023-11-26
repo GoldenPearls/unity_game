@@ -1,5 +1,5 @@
 # 유니티 게임 : 반려동물을 찾아서..
-학교 전공심화 과제로 낸 게임으로 2~3주 정도의 제작 기간으로 유니티를 이용하였고 강의를 보고 클론 코딩하여 조금 변형하여 제작하게 되었다.
+학교 전공심화 과제로 낸 게임으로 2~3주 정도의 제작 기간으로 유니티를 이용하였고 강의를 보고 클론 코딩하여 조금 변형하여 제작하게 되었다. 3d 쿼터뷰 슈팅게임
 
 ![image](https://github.com/GoldenPearls/unity_game/assets/97003348/e7cb6012-2895-412a-afe8-7c8b2423f111)
 ![image](https://github.com/GoldenPearls/unity_game/assets/97003348/607da2ca-f270-4306-85ae-0054cf52c5f4)
